@@ -1,0 +1,11 @@
+To test the wsdl file : http://localhost:8080/ws/countries.wsdl
+
+To test the soap api 
+ 1. open the SOAP ui app
+ 2. add the project name from pom.xml file as project name 
+ 3. add the wsdl file or url
+ 4. open the tree and click on Request 
+ 5. provide the input in place of ?  
+ 6 hit the req
+ 
+ 
